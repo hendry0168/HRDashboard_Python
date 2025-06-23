@@ -1,6 +1,6 @@
 # 📊 HR Dashboard – Built with Streamlit & SQL Server
 
-Welcome to my interactive **HR Analytics Dashboard**, built using **Streamlit** (Python) and connected to a live **Microsoft SQL Server** database.
+Welcome to my **HR Analytics Dashboard**, built using **Streamlit** (Python) and connected to a live **Microsoft SQL Server** database.
 
 This project showcases my ability to:
 - Design intuitive **data-driven UIs** using Streamlit
@@ -40,15 +40,9 @@ As an HRIS developer in a real-world HR department, I saw the need for simple, r
 ## 🛠️ Tech Stack
 
 - **Frontend**: Streamlit (Python)
-- **Backend**: Microsoft SQL Server (SSMS), SQL Functions
+- **Backend**: Microsoft SQL Server (SSMS), SQL Functions. Available at github.com/hendry0168/shared-HR-dataset
 - **Data**: Dummy HR data (onboarding, separation, demographics)
 - **Visualization**: Plotly (bar charts, pie charts)
-
----
-
-## 📷 Preview
-
-> (You can add a screenshot here if deploying on Streamlit Cloud or locally)
 
 ---
 
@@ -66,8 +60,7 @@ This dashboard reflects my:
 If you're a recruiter, hiring manager, or data-driven team —  
 I'd love to bring these skills to your organization.
 
-📧 Email: [your.email@example.com]  
-🔗 LinkedIn: [linkedin.com/in/yourprofile]  
-🌐 Portfolio: [your-portfolio-link.com]
+📧 Email: Hendry0168@gmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/hendry-tiopan/ 
 
 ---

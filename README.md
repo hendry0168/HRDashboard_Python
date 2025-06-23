@@ -41,7 +41,7 @@ As an HRIS developer in a real-world HR department, I saw the need for simple, r
 
 - **Frontend**: Streamlit (Python)
 - **Backend**: Microsoft SQL Server (SSMS), SQL Functions. Available at github.com/hendry0168/shared-HR-dataset
-- **Data**: Dummy HR data (onboarding, separation, demographics)
+- **Data**: Dummy HR data (onboarding, separation, demographics) no API needed
 - **Visualization**: Plotly (bar charts, pie charts)
 
 ---
